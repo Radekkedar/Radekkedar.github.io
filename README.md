@@ -1,9 +1,11 @@
 ## Moje CV
-Jestem studentem Informatyki i systemow inteligentnych na AGH
+Jestem studentem Informatyki i Systemow Inteligentnych na AGH
 
 ##### Jezyki programowania ktore znam to
-C Python  
+- C 
+- Python  
 W przyszlosci bede uczyl sie rowzniez Javy oraz C++
 
 #### Szkoly ktore ukonczylem to 
-II liceum ogolnoksztalcace w Przemyslu oraz Gimnazjum w Dubiecku
+- II liceum ogolnoksztalcace w Przemyslu 
+- Gimnazjum w Dubiecku
